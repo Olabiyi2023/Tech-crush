@@ -44,7 +44,7 @@ function loadUserData(userId) {
 }
 
 loadUserData("BAD-123455");   // Data loaded for user: 5  -->  Loading complete.
-loadUserData("GOOD-123455");  // Failed: User ID must start with BAD --> Loading complete.
+loadUserData("GOOD-123455");  // Failed: User ID must start with BAD --> Loading complete// .
 
 
 
